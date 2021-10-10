@@ -24,6 +24,6 @@ Enjoy guys 😁😁😀😀
 
 # Picture
 
-<img href = "2021_10_10_04_40_46.jpg"</img>
+<img href = "2021_10_10_04_40_46.jpg"></img>
 
 
